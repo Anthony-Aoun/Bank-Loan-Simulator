@@ -23,8 +23,8 @@ This Python project is a **bank loan simulator** specifically designed for calcu
 
 1. Clone the repository:
    ```bash
-   git clone <repository_url>
-   cd <repository_directory>
+   git clone git@github.com:Anthony-Aoun/Bank-Loan-Simulator.git
+   cd Bank-Loan-Simulator
    ```
 
 2. Install the required libraries:
